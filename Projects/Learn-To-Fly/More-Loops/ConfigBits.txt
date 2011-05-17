@@ -1,0 +1,3 @@
+   Address    Value   Field             Category                               Setting                   
+
+                    JTAGEN  JTAG Port Enable               Disabled                                      
